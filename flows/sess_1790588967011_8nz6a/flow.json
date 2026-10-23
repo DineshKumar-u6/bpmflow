@@ -1265,9 +1265,9 @@
       "imageFile": "images/step_1790589006144_u8zeu.png"
     }
   ],
-  "reviewStatus": "draft",
-  "reviewSubmittedBy": "",
-  "reviewSubmittedAt": null,
+  "reviewStatus": "submitted",
+  "reviewSubmittedBy": "Maya Patel",
+  "reviewSubmittedAt": "2026-10-23 06:19:31",
   "versionPrefix": "v",
   "versionMajor": 1,
   "versionMinor": 2
