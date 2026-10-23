@@ -6,123 +6,8 @@
   "tags": "",
   "steps": [
     {
-      "id": "step_1790588990834_6rujx",
-      "order": 0,
-      "title": "Click Create Map",
-      "description": "",
-      "notes": "[\"Escape\"]",
-      "appName": "XPS",
-      "stepType": "click",
-      "instruction": "",
-      "actionType": "left_click",
-      "bgColor": "#ffffff",
-      "x": 1764,
-      "y": 237,
-      "hotspot": {
-        "x": 850,
-        "y": 105.5,
-        "width": 78.5,
-        "height": 18
-      },
-      "annotations": [
-        {
-          "fontSize": 18,
-          "bgColor": "white",
-          "color": "skyblue",
-          "textColor": "black",
-          "id": "ann_1790589009836_0s492",
-          "type": "callout",
-          "x": 752,
-          "y": 144,
-          "width": 198,
-          "height": 68,
-          "text": "Click Create Source",
-          "tailX": 889,
-          "tailY": 130,
-          "pointerSide": "top",
-          "lineWidth": 3,
-          "htmlContent": "Click Create Source"
-        }
-      ],
-      "blurRegions": [],
-      "metadata": {
-        "isKeyboardStep": false,
-        "ActionType": "left_click",
-        "Title": "Click Create Map",
-        "AppName": "msedge",
-        "TargetName": "Create Map",
-        "TargetType": "Button",
-        "ClickX": 1764,
-        "ClickY": 237,
-        "TypedText": "",
-        "KeyCombo": "",
-        "Hotspot": {
-          "x": 850,
-          "y": 105.5,
-          "width": 78.5,
-          "height": 18
-        },
-        "ElementBounds": {
-          "x": 850,
-          "y": 105.5,
-          "width": 78.5,
-          "height": 18
-        },
-        "DetectionMethod": "uia_browser",
-        "Instruction": "",
-        "Annotations": [],
-        "BlurRegions": [],
-        "CapturedAt": "2026-09-28T09:49:50.833Z",
-        "tier": "1.1",
-        "scenarioPassed": "1.1",
-        "detectionMethod": "manual",
-        "needsCv": false,
-        "targetName": "Create Map",
-        "targetType": "Edit",
-        "automationId": "",
-        "elementBounds": {
-          "x": 850,
-          "y": 105.5,
-          "width": 78.5,
-          "height": 18
-        },
-        "appType": "browser",
-        "appName": "XPS",
-        "windowTitle": "Chrome Legacy Window",
-        "processName": "msedge.exe",
-        "rawProcessName": "msedge.exe",
-        "canonicalAppName": "XPS",
-        "targetPid": 41968,
-        "screenshotOriginX": 0,
-        "screenshotOriginY": 0,
-        "imageScale": 0.5,
-        "scaleFactor": 1.5,
-        "captureScaleFactor": 1.5,
-        "value": "",
-        "key": "Escape",
-        "direction": null,
-        "delta": null,
-        "isCustomApp": false,
-        "clickRegion": null,
-        "className": "\n                inline-flex items-center gap-1.5\n                bg-gradient-to-r from-[var(--color-primary)] to-[var(--color-accent)]\n                border border-[var(--color-secondary)]\n                text-white\n                px-4 py-1\n                rounded-lg\n                font-semibold text-sm\n                shadow-md\n                hover:shadow-[0_6px_20px_var(--color-accent-40)]\n                hover:scale-[1.02]\n                active:scale-[0.97] active:shadow-sm\n                disabled:opacity-40 disabled:cursor-not-allowed disabled:shadow-none disabled:hover:scale-100\n                transition-all duration-200 ease-out\n                whitespace-nowrap\n                max-lg:mob-txt-sm\n            ",
-        "ownershipState": "UNAVAILABLE",
-        "debugIsKnownCustomApp": null,
-        "debugWindowClassName": null,
-        "debugFrameDecision": null,
-        "noVisualChange": false,
-        "screenshotActualWidth": 960,
-        "screenshotActualHeight": 540,
-        "interactionId": "1790588990547_0xjhnwe",
-        "hasAutoCalloutRun": true,
-        "calloutOffsetX": 0,
-        "calloutOffsetY": 0,
-        "waitingDuration": null
-      },
-      "imageFile": "images/step_1790588990834_6rujx.png"
-    },
-    {
       "id": "step_1790588991080_g289z",
-      "order": 1,
+      "order": 0,
       "title": "Click iBPM and 2 more pages - Work - Microsoft​ Edge",
       "description": "",
       "notes": "",
@@ -185,7 +70,7 @@
     },
     {
       "id": "step_1790588992229_ws5zi",
-      "order": 2,
+      "order": 1,
       "title": "Click Please enter the map name",
       "description": "",
       "notes": "",
@@ -277,7 +162,7 @@
     },
     {
       "id": "step_1790588996798_6p8ry",
-      "order": 3,
+      "order": 2,
       "title": "Type: \"Mapping 34566\"",
       "description": "",
       "notes": "",
@@ -369,7 +254,7 @@
     },
     {
       "id": "step_1790588997525_p3izg",
-      "order": 4,
+      "order": 3,
       "title": "Click Create Map",
       "description": "",
       "notes": "",
@@ -461,7 +346,7 @@
     },
     {
       "id": "step_1790588998417_zphbm",
-      "order": 5,
+      "order": 4,
       "title": "Click root",
       "description": "",
       "notes": "",
@@ -553,7 +438,7 @@
     },
     {
       "id": "step_1790588999039_iee9r",
-      "order": 6,
+      "order": 5,
       "title": "Click root",
       "description": "",
       "notes": "",
@@ -645,7 +530,7 @@
     },
     {
       "id": "step_1790588999640_k051y",
-      "order": 7,
+      "order": 6,
       "title": "Click root",
       "description": "",
       "notes": "",
@@ -737,7 +622,7 @@
     },
     {
       "id": "step_1790589000259_rb2e4",
-      "order": 8,
+      "order": 7,
       "title": "Click CHOOSE PRIVACY TYPE",
       "description": "",
       "notes": "",
@@ -829,7 +714,7 @@
     },
     {
       "id": "step_1790589001511_b4bbo",
-      "order": 9,
+      "order": 8,
       "title": "Click Specific Users",
       "description": "",
       "notes": "",
@@ -921,7 +806,7 @@
     },
     {
       "id": "step_1790589002594_htdyh",
-      "order": 10,
+      "order": 9,
       "title": "Click Assign Users",
       "description": "",
       "notes": "",
@@ -1013,7 +898,7 @@
     },
     {
       "id": "step_1790589003625_ee3ki",
-      "order": 11,
+      "order": 10,
       "title": "Click gayathri.m@igosolutions.eu",
       "description": "",
       "notes": "",
@@ -1105,7 +990,7 @@
     },
     {
       "id": "step_1790589004330_kl89q",
-      "order": 12,
+      "order": 11,
       "title": "Click Add",
       "description": "",
       "notes": "",
@@ -1197,7 +1082,7 @@
     },
     {
       "id": "step_1790589005111_4z5tv",
-      "order": 13,
+      "order": 12,
       "title": "Click Add 1 User",
       "description": "",
       "notes": "",
@@ -1289,7 +1174,7 @@
     },
     {
       "id": "step_1790589006144_u8zeu",
-      "order": 14,
+      "order": 13,
       "title": "Click Create Map",
       "description": "",
       "notes": "",
@@ -1385,5 +1270,5 @@
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 1,
-  "versionMinor": 1
+  "versionMinor": 2
 }
